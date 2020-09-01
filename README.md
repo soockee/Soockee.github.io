@@ -5,7 +5,7 @@
 [![Open Issues](https://badgen.net/github/open-issues/Soockee/Soockee.github.io)](https://github.com/Soockee/Soockee.github.io/issues)
 [![License](https://badgen.net/github/license/Soockee/Soockee.github.io)](LICENSE)
 
-[View Demo](https://github.com/Soockee/Soockee.github.io) · [Report Bug](https://github.com/Soockee/Soockee.github.io/issues) · [Request Feature](https://github.com/Soockee/Soockee.github.io/issues)
+[View Demo](https://resource-war.me) · [Report Bug](https://github.com/Soockee/Soockee.github.io/issues) · [Request Feature](https://github.com/Soockee/Soockee.github.io/issues)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents <!-- omit in toc -->
