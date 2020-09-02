@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-- []()
+- [Neumorphism](https://github.com/longpdo/neumorphism)
 - []()
 - []()
 
